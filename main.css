@@ -4,7 +4,9 @@ html {
     font-size: larger;
     font-weight: 300;
 }
-
+body{
+    background-color: #FCFBF4;
+}
 a {
     text-decoration: none;
     color: #1565c0;
